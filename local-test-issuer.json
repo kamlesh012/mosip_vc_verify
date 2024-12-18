@@ -48,7 +48,7 @@
                                 "locale": "pt"
                             },
                             {
-                                "name": "Name Hindi",
+                                "name": "नाम",
                                 "locale": "hi"
                             }
                         ]
@@ -193,7 +193,7 @@
                                 "locale": "en"
                             },
                             {
-                                "name": "Name Hindi",
+                                "name": "नाम",
                                 "locale": "hi"
                             }
                         ]
