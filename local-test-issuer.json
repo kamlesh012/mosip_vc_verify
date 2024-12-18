@@ -46,6 +46,10 @@
                             {
                                 "name": "Name PT",
                                 "locale": "pt"
+                            },
+                            {
+                                "name": "Name Hindi",
+                                "locale": "hi"
                             }
                         ]
                     },
@@ -114,6 +118,10 @@
                             {
                                 "name": "Policy Name",
                                 "locale": "en"
+                            },
+                            {
+                                "name": "Policy Name Hindi",
+                                "locale": "hi"
                             }
                         ]
                     },
@@ -183,6 +191,10 @@
                             {
                                 "name": "Name",
                                 "locale": "en"
+                            },
+                            {
+                                "name": "Name Hindi",
+                                "locale": "hi"
                             }
                         ]
                     },
@@ -215,6 +227,10 @@
                             {
                                 "name": "Benefits",
                                 "locale": "en"
+                            },
+                            {
+                                "name": "Benefits Hindi",
+                                "locale": "hi"
                             }
                         ]
                     },
@@ -247,6 +263,10 @@
                             {
                                 "name": "Policy Name",
                                 "locale": "en"
+                            },
+                            {
+                                "name": "Policy Name Hindi",
+                                "locale": "hi"
                             }
                         ]
                     },
